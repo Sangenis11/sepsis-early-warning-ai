@@ -87,6 +87,8 @@ def validate_inputs(age, hr, spo2, temp, rr, map_ni):
 app = dash.Dash(__name__)
 app.title = "Sepsis Early Warning AI"
 
+server = app.server
+
 COLORS = {
     "navy": "#12304A", "navy2": "#1B4965", "teal": "#0F766E",
     "teal_light": "#E6F4F1", "blue": "#2563EB", "blue_light": "#EFF6FF",
