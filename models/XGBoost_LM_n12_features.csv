@@ -1,0 +1,25 @@
+0
+num__heart_rate_max
+num__spo2_min
+num__temperature_max
+num__rr_max
+num__map_ni
+num__anchor_age
+bin__vasopressor_mean
+bin__crrt_mean
+bin__invasive_mean
+bin__noninvasive_mean
+bin__highflow_mean
+bin__gcs_min_missing
+bin__map_ni_missing
+cat__gender_M
+cat__race_grouped_Black
+cat__race_grouped_Hispanic/Latino
+cat__race_grouped_Native American
+cat__race_grouped_Other/Unknown
+cat__race_grouped_Pacific Islander
+cat__race_grouped_White
+cat__gcs_min_cat_num_2
+cat__gcs_min_cat_num_3
+cat__elixhauser_cat_num_2
+cat__elixhauser_cat_num_3

@@ -1,0 +1,7 @@
+dash
+plotly
+pandas
+numpy
+joblib
+scikit-learn==1.6.1
+gunicorn
